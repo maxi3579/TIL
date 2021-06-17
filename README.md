@@ -1,4 +1,3 @@
 # TIL
 
-뭘 쓸 지 모르겠음.
-
+today I learned  
